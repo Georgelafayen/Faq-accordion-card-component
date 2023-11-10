@@ -6,3 +6,5 @@ The goal of the challenge is to recreate the component from a mockup.
 ## Developed using
 - HTML
 - CSS
+- JS Vanilla
+- Jquery
